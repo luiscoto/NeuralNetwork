@@ -83,6 +83,6 @@ Inspirado en el proyecto de: RITIKA CHOWDRI
   <img src="https://user-images.githubusercontent.com/81122669/123591935-3a779c80-d7b2-11eb-919d-573247b80faa.JPG" />
 </p>
 
-Ramírez Cotonieto Luis Ferando 
-Redes Neuronales 
+Ramírez Cotonieto Luis Ferando <br/>
+Redes Neuronales <br/>
 2020630417
